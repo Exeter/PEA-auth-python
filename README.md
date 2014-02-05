@@ -1,4 +1,6 @@
-#PEA-auth-py
+#PEA_auth
+A python module for authentication on the PEA network.
+
 Usage:
 ```python
 from PEA_auth import auth
