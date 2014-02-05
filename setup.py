@@ -9,6 +9,6 @@ setup(
     download_url="https://github.com/Exeter/PEA_auth",
     author="Sean Lee",
     author_email="freshdried@gmail.com",
-    install_requires=["requests>=1.1.0"],
+    install_requires=["requests>=2.2.1"],
     packages=['PEA_auth'],
 )
